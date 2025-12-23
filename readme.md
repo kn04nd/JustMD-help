@@ -1,6 +1,6 @@
 # 🛟 JustMD Support
 
-Welcome to the **JustMD Support Repository**! This is the central hub for reporting bugs, requesting features, and getting help with JustMD - a minimal, beautiful Markdown editor.
+Welcome to the **[JustMD](https://www.justmd.app/) Support Repository**! This is the central hub for reporting bugs, requesting features, and getting help with JustMD - a minimal, beautiful Markdown editor.
 
 ## 🤝 How to Get Help
 
